@@ -12,7 +12,7 @@
     "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/adapter-vercel": "next",
     "@sveltejs/kit": "next",
     "@tailwindcss/aspect-ratio": "^0.3.0",
     "@tailwindcss/line-clamp": "^0.2.2",
